@@ -1,0 +1,67 @@
+
+h1 {
+	font-family: Monospace;
+	font-size: 24px;
+	padding: 5px;
+}
+p {
+	font-family: Monospace;
+	padding: -5px;
+}
+body {
+	background-color: #ccdcff;
+	color: #1a1a1a;
+}
+.texte {
+	display: flex;
+	justify-content: start;
+	flex-direction: column;
+}
+.webstorm {
+	font-family: Monospace;
+	padding: 5px;
+}
+.webstorm:hover {
+	color: #00cccc;
+}
+.netbeans {
+	font-family: Monospace;
+	padding: 5px;
+}
+.netbeans:hover {
+	color: #0066cc;
+}
+.sublimetext {
+	font-family: Monospace;
+	padding: 5px;
+}
+.sublimetext:hover {
+	color: #e07612;
+}
+.text-webstrorm {
+	font-family: Monospace;
+	padding: 10px;
+}
+.text-netbeans {
+	font-family: Monospace;
+	padding: 10px;
+}
+.text-sublimetext {
+	font-family: Monospace;
+	padding: 10px;
+}
+.logo {
+	float: right;
+	margin-top: -70px;
+	margin-right: 50px;
+}
+.logo2 {
+	float: right;
+	margin-top: -17px;
+	margin-right: 50px;
+}
+.logo3 {
+	float: right;
+	margin-top: -10px;
+	margin-right: 50px;
+}

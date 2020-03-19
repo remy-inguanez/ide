@@ -1,0 +1,73 @@
+h1 {
+	font-family: 'Anton', sans-serif;
+	font-size: 50px;
+	text-decoration: underline;
+	text-align: center;
+	color: white;
+	align: center;
+	width:600px;
+	height:80px;
+	background-color: #0000b3;
+	border-radius: 8px;
+	margin-left: 320px;
+	padding: 15px;
+}
+body {
+	background-repeat: no-repeat;
+	background-image: linear-gradient(#0066cc, #0066ff, #ffffff, #ffffff);
+}
+button {
+	font-family: 'Anton', sans-serif;
+	background-color: #0000b3;
+	text-decoration: none;
+	float: left;
+	margin-left: 45px;
+	width: 8%;
+	height: 50%;
+	border: none;
+	font-size: 15px;
+}
+.text-netbeans {
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	width: 1000px;
+	height :150px;
+	margin-left: 105px;
+	padding: 20px;
+	border-radius: 8px;
+    background-color: whitesmoke;
+}
+.lien {
+	font-family: 'Anton', sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	float: left;
+	margin-left: 500px;
+}
+.lien2 {
+	font-family: 'Anton', sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	float: right;
+	margin-right: 480px;
+}
+.logo {
+	margin-right: 380px;
+	margin-top: -330px;
+	float: right;
+}
+.logo2 {
+	margin-left: 380px;
+	margin-top: -330px;
+	float: left;
+}
+.screen {
+	text-align: center;
+	margin-top: 100px;
+}
+a {
+	text-decoration: none;
+	color: red;
+}
